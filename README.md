@@ -1,5 +1,5 @@
 
-![IMG](https://raw.githubusercontent.com/CarlosHenrique2/CarlosHenrique2/presentation.png)
+![IMG](https://raw.githubusercontent.com/CarlosHenrique2/CarlosHenrique2/master/presentation.png)
 
 <div> 
   <a href = "mailto:carlos.eletroniccr@gmail.com">
