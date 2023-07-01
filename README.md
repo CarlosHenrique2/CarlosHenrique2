@@ -1,7 +1,5 @@
 # Olá! Eu sou o Carlos Henrique 🖐️
 
-## Seja bem vindo os meu perfil! 
-
 ### Veja minhas redes!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshenriquels/)
