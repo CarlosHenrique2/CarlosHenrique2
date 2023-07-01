@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloshenriquels/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yBtaT2dTtr)
 
-### Tecnologias Que Tenho Conhecimento
+## Tecnologias Que Tenho Conhecimento
 ------
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,7 @@
 </div>
 <br/>
 
-### Tecnologias Que Estudo:
+## Tecnologias Que Estudo:
 ------
 <div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />   
@@ -28,7 +28,7 @@
 </div>
 <br/>
 
-### Estudos Futuros:
+## Estudos Futuros:
 ------
 <div style="display: inline_block">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -38,7 +38,7 @@
 </div>
 <br/>
 
-### Cloud:
+## Cloud:
 ------
 <div style="display: inline_block">
   <img align="center" alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
@@ -46,7 +46,7 @@
 </div>
 <br/>
 
-### CI/CD:
+## CI/CD:
 ------
 <div style="display: inline_block">
   <img align="Netlify" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
@@ -55,7 +55,7 @@
 </div>
 <br/>
 
-### IDE:
+## IDE:
 ------
 <div style="display: inline_block">
   <img align="Netlify" alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />  
@@ -64,7 +64,7 @@
 </div>
 <br/>
 
-### Bancos de dados:
+## BD:
 ------
 <div style="display: inline_block">
   <img align="Netlify" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
@@ -72,7 +72,7 @@
 </div>
 <br/>
 
-### Tests:
+## Tests:
 ------
 <div style="display: inline_block">
   <img align="Netlify" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />  
